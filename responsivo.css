@@ -2,10 +2,14 @@
 .box-1{
     position: absolute;
     top: 197px;
-    width: 323px;
+   
+}
+.container1{
+font-size: 3em !important;
+
 }
 .lista1{
-    padding-right: 0rem;
+    padding-right: 0rem !important;
 }
 }
 
